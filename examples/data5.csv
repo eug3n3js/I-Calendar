@@ -1,0 +1,13 @@
+Name,Date,Duration,Location,Tags,Note,Moveable,RRULE:FREQ,RRULE:COUNT,Participants
+Client workshop,2024-02-01-10-00,5-00,Client's office,business meeting,Conduct workshop on product usage and best practices,true,N/A,N/A,Client representatives
+Team outing,2024-02-05-13-00,6-00,Amusement park,team-building fun,Enjoy a day of fun and adventure as a team,false,N/A,N/A,All team members
+Conference attendance,2024-02-09-09-00,3-00,Convention center,conference networking,Attend industry conference and workshops,false,N/A,N/A,Attendees
+Business lunch,2024-02-13-12-30,1-30,Restaurant,business meeting,Meet with clients for a productive lunch discussion,true,N/A,N/A,Clients
+Product launch planning,2024-02-17-14-00,2-00,Office,work important,Plan the details and logistics for the upcoming product launch,true,WEEKLY,6,John Sarah Alex Emma David Lisa
+Networking event,2024-02-21-18-30,2-30,Hotel ballroom,networking social,Expand professional network at a networking event,false,N/A,N/A,Attendees
+Team lunch,2024-02-25-12-00,1-00,Restaurant,team bonding,Enjoy a casual team lunch for team building and relaxation,false,N/A,N/A,Team members
+Client meeting,2024-02-29-11-00,1-30,Client's office,business meeting,Discuss project updates and address client concerns,true,DAILY,3,John Sarah Alex
+Training session,2024-03-04-09-30,3-00,Training center,workshop learning,Attend training session on new technologies,false,WEEKLY,4,John Sarah Alex Emma
+Product demo,2024-03-08-14-00,1-30,Client's office,business meeting,Conduct a product demonstration for potential clients,true,DAILY,3,John Sarah Alex
+Team building activity,2024-03-12-13-00,4-00,Outdoor park,team-building fun,Engage in outdoor activities and team challenges,true,N/A,N/A,All team members
+Board meeting,2024-03-16-15-00,2-00,Company boardroom,board meeting,Discuss strategic decisions and review financials,true,N/A,N/A,Board members

@@ -1,0 +1,19 @@
+Name,Date,Duration,Location,Tags,Note,Moveable,RRULE:FREQ,RRULE:COUNT,Participants
+Meeting with John,2023-05-11-5-0,1-30,Office,important work,Discuss new project,true,DAILY,5,Alex John Sarah
+Family dinner,2023-05-11-7-30,1-30,Home,family food,Celebrate mom's birthday,true,N/A,N/A,Dad Mom Sarah
+Doctor's appointment,2023-05-17-5-0,0-45,Clinic,health,Annual check-up,true,DAILY,3,N/A
+Event 4,2023-05-20-10-0,1-30,Conference room,meeting team,Discuss project updates,false,WEEKLY,8,Alex John Sarah
+Birthday party,2023-05-25-6-0,3-0,Park,celebration fun,Enjoy outdoor games,true,N/A,N/A,Emma Michael Sarah
+Lunch with clients,2023-05-28-12-0,1-0,Restaurant,business meeting,Discuss new proposal,false,DAILY,5,David Emma John
+Conference call,2023-06-04-9-0,1-0,Online,meeting work,Discuss project status,true,WEEKLY,5,Alex John Sarah
+Team outing,2023-06-04-11-0,6-0,Beach,fun team-building,Enjoy water sports,true,N/A,N/A,KOLYA VASYA
+Dentist appointment,2023-06-08-4-30,0-30,Dental clinic,health,Teeth cleaning and check-up,true,DAILY,3,N/A
+Project kickoff meeting,2023-06-15-10-0,2-0,Conference room,important work,Discuss project goals,true,WEEKLY,6,Alex David Emma John Lisa Sarah
+Coffee break,2023-06-18-15-30,0-30,Cafeteria,break work,Relax and socialize,false,DAILY,5,David Emma John Lisa Sarah
+Business conference,2023-06-20-9-0,8-0,Convention center,conference networking,Attend industry presentations,false,N/A,N/A,All attendees
+Client presentation,2023-06-23-14-0,1-30,Client's office,business meeting,Present project proposal,true,DAILY,3,Alex John Sarah
+Dinner with friends,2023-06-25-18-30,3-0,Restaurant,food friends,Enjoy good food and conversation,true,N/A,N/A,David Emma Lisa Michael Sarah
+Training workshop,2023-06-27-9-0,4-0,Training center,learning workshop,Learn new skills and techniques,false,WEEKLY,4,Alex Emma John Sarah
+Product demo,2023-07-01-11-0,1-0,Office,business meeting,Showcase new product features,false,DAILY,5,Alex David Emma John Sarah
+Company anniversary celebration,2023-07-30-17-0,6-0,Company premises,celebration fun,Celebrate company's anniversary with employees,false,N/A,N/A,All employees
+Networking event,2023-08-02-18-30,3-0,Hotel ballroom,networking social,Network with professionals from various industries,false,N/A,N/A,Attendees

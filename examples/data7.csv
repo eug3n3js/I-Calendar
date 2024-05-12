@@ -1,0 +1,16 @@
+Name,Date,Duration,Location,Tags,Note,Moveable,RRULE:FREQ,RRULE:COUNT,Participants
+Birthday Celebration,2021-04-20-18-00,4-00,Home,celebration,Celebrate a family member's birthday,false,N/A,N/A,Family
+Workshop: Project Management,2021-04-25-09-30,2-00,Online,workshop,Learn effective project management techniques,false,N/A,N/A,N/A
+Business Lunch,2021-05-05-12-30,1-30,Restaurant,business,Meeting with potential client,false,N/A,N/A,N/A
+Team Building Retreat,2021-05-10-09-00,2-00,Resort,team-building,Engage in team-building activities and workshops,true,DAILY,3,N/A
+Conference: Marketing Strategies,2021-05-15-10-00,8-00,Convention Center,conference,Attend a conference on marketing strategies,true,DAILY,2,John Sarah
+Gardening Workshop,2021-05-20-14-00,3-00,Community Center,hobby,Learn gardening techniques and tips,false,N/A,N/A,N/A
+Doctor's Appointment,2021-05-25-11-30,1-00,Medical Center,health,Follow-up appointment,false,N/A,N/A,N/A
+Family BBQ,2021-06-01-16-00,4-00,Backyard,family,Enjoy a barbecue gathering with family and friends,false,N/A,N/A,Family Friends
+Workshop: Time Management,2021-06-05-10-30,2-00,Office,workshop,Learn effective time management strategies,false,N/A,N/A,N/A
+Business Trip: Client Meeting,2021-06-10-08-00,8-00,Client Office,business,Meeting with a key client to discuss project updates,true,DAILY,2,John Sarah
+Hiking Trip,2021-06-15-07-00,6-00,National Park,recreation,Go on a hiking adventure with friends,false,N/A,N/A,Friends
+Conference: Technology Trends,2021-06-20-09-00,8-00,Conference Center,conference,Attend a conference on the latest technology trends,true,DAILY,3,John Sarah Alex
+Volunteer Work: Food Drive,2021-06-25-10-00,3-00,Community Center,volunteering,Participate in a food drive for the local community,false,N/A,N/A,N/A
+Team Building Activity,2021-07-01-13-00,4-00,Escape Room,team-building,Work together to solve puzzles and escape the room,false,N/A,N/A,N/A
+Vacation,2021-07-05-08-00,10-00,Beach Resort,recreation,Enjoy a relaxing vacation by the beach,false,N/A,N/A,N/A

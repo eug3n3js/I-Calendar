@@ -1,0 +1,10 @@
+Name,Date,Duration,Location,Tags,Note,Moveable,RRULE:FREQ,RRULE:COUNT,Participants
+Meeting with John,2023-05-11-05-00,1-30,Office,work important,Discuss new project,true,DAILY,5,John Sarah Alex
+Family dinner,2023-05-11-06-00,1-30,Home,family food,Celebrate mom's birthday,true,N/A,N/A,Mom Dad Sarah
+Doctor's appointment,2023-05-17-05-00,0-45,Clinic,health,Annual check-up,true,DAILY,3,N/A
+Event 4,2023-05-20-10-00,1-30,Conference room,team meeting,Discuss project updates,false,WEEKLY,8,John Sarah Alex
+Birthday party,2023-05-25-06-00,3-00,Park,celebration fun,Enjoy outdoor games,true,N/A,N/A,Emma Michael Sarah
+Lunch with clients,2023-05-28-12-00,1-00,Restaurant,business meeting,Discuss new proposal,false,DAILY,5,John Emma David
+Conference call,2023-06-04-09-00,1-00,Online,work meeting,Discuss project status,true,WEEKLY,5,John Sarah Alex
+Dentist appointment,2023-06-08-04-30,0-30,Dental clinic,health,Teeth cleaning and check-up,true,DAILY,3,N/A
+Team outing,2023-06-08-04-45,6-00,Beach,team-building fun,Enjoy water sports,true,N/A,N/A,VASYA KOLYA

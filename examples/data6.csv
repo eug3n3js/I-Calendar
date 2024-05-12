@@ -1,0 +1,12 @@
+Name,Date,Duration,Location,Tags,Note,Moveable,RRULE:FREQ,RRULE:COUNT,Participants
+Meeting with John,2021-01-05-09-00,1-30,Office,work,Discuss project status,true,DAILY,5,John Sarah Alex
+Lunch with David,2021-01-10-12-30,1-00,Restaurant,friends,Catch up,false,N/A,N/A,David
+Gym Workout,2021-01-15-18-00,1-30,Gym,health,Fitness training,true,DAILY,7,N/A
+Team Meeting,2021-01-20-14-00,1-30,Conference Room,work,Discuss project roadmap,true,WEEKLY,4,John Sarah Alex
+Dentist Appointment,2021-01-25-10-30,1-00,Dental Clinic,health,Dental check-up,false,N/A,N/A,N/A
+Coffee Break,2021-02-01-15-30,0-30,Cafeteria,relaxation,Take a break,true,DAILY,3,N/A
+Movie Night,2021-02-05-20-00,2-30,Home,entertainment,Watch a movie,false,N/A,N/A,Family Friends
+Business Trip,2021-02-10-09-00,8-00,Various Locations,work,Attend conferences,true,DAILY,2,John Sarah
+Birthday Party,2021-02-15-19-00,3-00,Party Venue,celebration,Celebrate Jane's birthday,false,N/A,N/A,Family Friends
+Doctor's Appointment,2021-02-20-11-30,1-00,Medical Center,health,Check-up,false,N/A,N/A,N/A
+Team Dinner,2021-04-10-19-00,2-00,Restaurant,team-building,Team dinner to strengthen bonds,false,N/A,N/A,N/A
